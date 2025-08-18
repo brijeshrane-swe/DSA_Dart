@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 
 /// Problem Statement: Given an integer N, print the following pattern :
 /// Star Pyramid
